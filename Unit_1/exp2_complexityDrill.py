@@ -40,7 +40,7 @@ def complexity_drill(n):
     # Hence, time complexity is O(logn)
     
 def main():
-    n = int(input("Enter value of n: "))
+    n = int(input("Enter a positive integer: "))
     complexity_drill(n)
     
 if __name__ == "__main__":
