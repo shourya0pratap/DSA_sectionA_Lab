@@ -19,7 +19,6 @@ def partition(lis, low, high):
 def main():
     lis = [67, 0, 13, -45, 314]
     quickSort(lis)
-    print(lis)
 
 if __name__ == "__main__":
     main()
